@@ -1,48 +1,45 @@
-# **ChatGPT - Introduction**
+# Holberton School — ChatGPT Introduction
 
-## 📌 Project Overview
-This project is part of the Holberton curriculum and introduces the use of **ChatGPT** to enhance coding practices.  
-It focuses on two key areas of software development:  
+![Holberton](https://img.shields.io/badge/Holberton-School-red?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
 
-- 🐞 **Debugging**: Using AI to detect, analyze, and fix code errors across multiple languages.  
-- ⚙️ **Automation**: Leveraging ChatGPT to generate boilerplate code, documentation, and unit tests, reducing repetitive tasks.  
+## Description
 
-The goal is to improve code quality, productivity, and confidence in troubleshooting.
+This project introduces **AI-assisted development** using ChatGPT and other large language model tools. It explores how developers can use AI to write, debug, optimize, and document code more efficiently — a critical skill in modern software engineering.
 
----
+## Topics Covered
 
-## 🎯 Objectives
-1. **Debugging Skills** – Diagnose and fix bugs efficiently with AI assistance.  
-2. **Automation Proficiency** – Automate routine coding tasks for cleaner, structured, and error-free code.  
-3. **Documentation** – Learn to use ChatGPT for generating clear explanations and comments.  
-4. **Error Handling** – Implement robust error handling to avoid crashes from invalid input.
+- Using ChatGPT for code generation and explanation
+- Prompt engineering for developers
+- AI-assisted debugging and error resolution
+- Automating documentation with AI
+- Understanding the limitations and best practices of AI tools
 
----
+## Project Tasks
 
-## 📝 Tasks
-- **0. Factorial (Python)** → Fix infinite loop in factorial calculation.  
-- **1. Print Arguments (Python)** → Print only passed arguments, excluding the script name.  
-- **2. Change Background (HTML/JS)** → Correct button event listener to change background color.  
-- **3. Minesweeper (Python)** → Add win detection when all safe cells are revealed.  
-- **4. Factorial Recursive (Python)** → Add function documentation (description, parameters, returns).  
-- **5. Checkbook (Python)** → Add input validation and error handling.  
-- **6. Tic Tac Toe (Python)** → Debug game logic and ensure proper winner detection.
+| Task | Description |
+|------|-------------|
+| Debugging with AI | Use ChatGPT to identify and fix bugs in Python scripts |
+| Code generation | Generate boilerplate and utility functions using prompts |
+| Test writing | Ask AI to generate unit tests for existing functions |
+| Documentation | Use AI to write docstrings and README files |
+| Automation | Script repetitive tasks using AI-generated code |
 
----
+## Learning Objectives
 
-## 🚀 Outcomes
-- Gain confidence in **debugging real-world code** with AI.  
-- Develop skills in **automation and documentation**.  
-- Understand how to integrate **AI tools into daily coding workflows**.  
+- Understand how Large Language Models (LLMs) work conceptually
+- Write effective prompts to get accurate, useful code
+- Use AI as a development assistant without over-relying on it
+- Critically evaluate AI-generated code for correctness and security
 
----
+## Technologies
 
-## 📂 Repository
-**GitHub Repository:** `holbertonschool-chatgpt-introduction`  
-- `debugging/factorial.py`  
-- `debugging/print_arguments.py`  
-- `debugging/change_background.html`  
-- `debugging/mines.py`  
-- `debugging/factorial_recursive.py`  
-- `debugging/checkbook.py`  
-- `debugging/tic.py`  
+| Tool | Purpose |
+|------|---------|
+| Python 3.10+ | Primary scripting language |
+| OpenAI API | GPT model integration |
+| ChatGPT | Interactive AI assistant |
+
+## Author
+
+**Kevin Voka** — [GitHub](https://github.com/kevinvoka)
+
